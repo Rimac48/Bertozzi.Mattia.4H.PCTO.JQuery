@@ -1,0 +1,48 @@
+.main{
+    border:2px solid black;
+}
+
+.middle{
+    padding: 80px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+/* .middle2{
+    padding: 80px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+*/
+.middle3{
+    padding: 20px;
+    margin: 35px;
+    /* margin-left: 35px;
+    margin-right: 35px; */
+}
+
+.caselladestra{
+    padding: 20px;
+    text-align: center;
+    /* padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 80px;
+    padding-bottom: 557px; */
+    /* é stato necessario */
+}
+
+.bordo{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border:2px solid black;
+}
+
+.nomi{
+    border:2px solid black;
+}
+
+.destra{
+    margin-left: auto;
+    margin-right: auto;
+}
+
